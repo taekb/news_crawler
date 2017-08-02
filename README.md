@@ -4,7 +4,7 @@ This is a web crawler that collects Daum News (http://media.daum.net/) article d
 
 * Dependencies:
   * BeautifulSoup (bs4)
-  * For more info on the library, check out: https://www.crummy.com/software/BeautifulSoup/
+    * For more info on the library, check out: https://www.crummy.com/software/BeautifulSoup/
   
 * Using the Daum News Crawler:
   * Enter the start date (the more recent date) and the end date in the format 'YEARMNDY' (e.g. 20170710)
